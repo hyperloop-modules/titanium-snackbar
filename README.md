@@ -1,4 +1,4 @@
-# ti.snackbar
+# Ti.Snackbar
 Use the Android Snackbar in Appcelerator Titanium.
 
 ## Example
