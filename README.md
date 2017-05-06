@@ -1,6 +1,8 @@
 # Ti.Snackbar
 Use the Android Snackbar in Appcelerator Titanium.
 
+<img src="./snackbar.png" height="36" alt="Snackbar Example" />
+
 ## Run the Sample
 
 1. Copy the `ti.snackbar` folder to your `lib/` (Alloy) or your Resources (Classic) directory
